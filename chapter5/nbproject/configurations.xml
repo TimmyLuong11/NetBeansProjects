@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>add_one.c</itemPath>
+      <itemPath>addemup.c</itemPath>
+      <itemPath>bottles.c</itemPath>
+      <itemPath>convert.c</itemPath>
+      <itemPath>divide.c</itemPath>
+      <itemPath>golf.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>min_sec.c</itemPath>
+      <itemPath>post_pre.c</itemPath>
+      <itemPath>pound.c</itemPath>
+      <itemPath>rules.c</itemPath>
+      <itemPath>running.c</itemPath>
+      <itemPath>shoes1.c</itemPath>
+      <itemPath>shoes2.c</itemPath>
+      <itemPath>size_of.c</itemPath>
+      <itemPath>squares.c</itemPath>
+      <itemPath>wheat.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="add_one.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="addemup.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="bottles.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="convert.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="divide.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="golf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="min_sec.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="post_pre.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="pound.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rules.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="running.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="shoes1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="shoes2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="size_of.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="squares.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="wheat.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="add_one.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="addemup.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="bottles.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="convert.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="divide.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="golf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="min_sec.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="post_pre.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="pound.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rules.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="running.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="shoes1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="shoes2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="size_of.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="squares.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="wheat.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

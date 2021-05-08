@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>animals.c</itemPath>
+      <itemPath>breakex.c</itemPath>
+      <itemPath>chcount.c</itemPath>
+      <itemPath>colddays.c</itemPath>
+      <itemPath>commission.c</itemPath>
+      <itemPath>cypher1.c</itemPath>
+      <itemPath>cypher2.c</itemPath>
+      <itemPath>divisors.c</itemPath>
+      <itemPath>electric.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>paint.c</itemPath>
+      <itemPath>skippart.c</itemPath>
+      <itemPath>vowels.c</itemPath>
+      <itemPath>wordcnt.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="animals.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="breakex.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="chcount.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="colddays.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="commission.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cypher1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cypher2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="divisors.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="electric.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="paint.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="skippart.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="vowels.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="wordcnt.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="animals.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="breakex.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="chcount.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="colddays.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="commission.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cypher1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cypher2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="divisors.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="electric.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="paint.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="skippart.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="vowels.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="wordcnt.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

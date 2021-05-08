@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>addresses.c</itemPath>
+      <itemPath>arrchar.c</itemPath>
+      <itemPath>fgets1.c</itemPath>
+      <itemPath>fgets2.c</itemPath>
+      <itemPath>fgets3.c</itemPath>
+      <itemPath>getsputs.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>nono.c</itemPath>
+      <itemPath>p_and_s.c</itemPath>
+      <itemPath>put_out.c</itemPath>
+      <itemPath>put_put.c</itemPath>
+      <itemPath>s_gets.c</itemPath>
+      <itemPath>scan_str.c</itemPath>
+      <itemPath>strings1.c</itemPath>
+      <itemPath>strptr.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="addresses.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="arrchar.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fgets1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fgets2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fgets3.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="getsputs.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="nono.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="p_and_s.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="put_out.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="put_put.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="s_gets.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="scan_str.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="strings1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="strptr.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="addresses.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="arrchar.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fgets1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fgets2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="fgets3.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="getsputs.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="nono.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="p_and_s.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="put_out.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="put_put.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="s_gets.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="scan_str.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="strings1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="strptr.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

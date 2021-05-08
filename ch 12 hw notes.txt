@@ -1,0 +1,30 @@
+include header file( stdio, stdlib, time)
+
+prototyeps(if desired
+
+Void twenty (void) - function header
+
+declare variable(randomnumber, guess)
+static humancounter static couputer score
+
+create seed 
+
+prompt user tell them what is going on 
+
+get user input
+
+while loop
+
+	get user input
+
+	if guess > randomNumber
+		print( too low)
+ 
+	else if 
+		if guess < randomNumber
+			print(too high)
+
+	else
+		print you got it 
+
+increment static variable accordingly

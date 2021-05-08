@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>arf.c</itemPath>
+      <itemPath>array2d.c</itemPath>
+      <itemPath>bounds.c</itemPath>
+      <itemPath>day_mon1.c</itemPath>
+      <itemPath>day_mon2.c</itemPath>
+      <itemPath>day_mon3.c</itemPath>
+      <itemPath>designate.c</itemPath>
+      <itemPath>flc.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>no_data.c</itemPath>
+      <itemPath>order.c</itemPath>
+      <itemPath>pnt_add.c</itemPath>
+      <itemPath>ptr_ops.c</itemPath>
+      <itemPath>rain.c</itemPath>
+      <itemPath>somedata.c</itemPath>
+      <itemPath>sum_arr1.c</itemPath>
+      <itemPath>sum_arr2.c</itemPath>
+      <itemPath>vararr2d.c</itemPath>
+      <itemPath>zippo1.c</itemPath>
+      <itemPath>zippo2.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="arf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="array2d.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="bounds.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="day_mon1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="day_mon2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="day_mon3.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="designate.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="flc.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="no_data.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="order.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="pnt_add.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ptr_ops.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rain.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="somedata.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sum_arr1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sum_arr2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="vararr2d.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="zippo1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="zippo2.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="arf.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="array2d.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="bounds.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="day_mon1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="day_mon2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="day_mon3.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="designate.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="flc.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="no_data.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="order.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="pnt_add.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="ptr_ops.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rain.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="somedata.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sum_arr1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sum_arr2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="vararr2d.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="zippo1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="zippo2.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>boolean.c</itemPath>
+      <itemPath>cmpflt.c</itemPath>
+      <itemPath>do_while.c</itemPath>
+      <itemPath>entry.c</itemPath>
+      <itemPath>for_13s.c</itemPath>
+      <itemPath>for_char.c</itemPath>
+      <itemPath>for_cube.c</itemPath>
+      <itemPath>for_down.c</itemPath>
+      <itemPath>for_geo.c</itemPath>
+      <itemPath>for_none.c</itemPath>
+      <itemPath>for_show.c</itemPath>
+      <itemPath>for_wild.c</itemPath>
+      <itemPath>main.c</itemPath>
+      <itemPath>postage.c</itemPath>
+      <itemPath>power.c</itemPath>
+      <itemPath>rows1.c</itemPath>
+      <itemPath>rows2.c</itemPath>
+      <itemPath>scores_in.c</itemPath>
+      <itemPath>summing.c</itemPath>
+      <itemPath>sweetie1.c</itemPath>
+      <itemPath>sweetie2.c</itemPath>
+      <itemPath>t_and_f.c</itemPath>
+      <itemPath>trouble.c</itemPath>
+      <itemPath>truth.c</itemPath>
+      <itemPath>when.c</itemPath>
+      <itemPath>while1.c</itemPath>
+      <itemPath>while2.c</itemPath>
+      <itemPath>zeno.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="boolean.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cmpflt.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="do_while.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="entry.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_13s.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_char.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_cube.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_down.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_geo.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_none.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_show.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_wild.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="postage.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="power.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rows1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rows2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="scores_in.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="summing.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sweetie1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sweetie2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="t_and_f.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="trouble.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="truth.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="when.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="while1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="while2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="zeno.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="boolean.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="cmpflt.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="do_while.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="entry.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_13s.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_char.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_cube.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_down.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_geo.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_none.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_show.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="for_wild.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="postage.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="power.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rows1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="rows2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="scores_in.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="summing.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sweetie1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="sweetie2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="t_and_f.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="trouble.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="truth.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="when.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="while1.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="while2.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="zeno.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
